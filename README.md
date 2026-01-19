@@ -1,5 +1,6 @@
 # Supermarket Sales Analysis Dashboard (Power BI)
-<img width="865" height="485" alt="image" src="https://github.com/user-attachments/assets/30f110fe-8194-4c86-b8f5-f9f1051c0883" />
+<img width="1512" height="844" alt="image" src="https://github.com/user-attachments/assets/5ffd6035-27e0-4f5c-8629-4a13483c2c74" />
+
 
 
 
