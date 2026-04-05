@@ -66,6 +66,7 @@ The dashboard provides actionable insights into the supermarket’s **sales tren
 
 # Electric Vehicle Registration Dashboard (Tableau)
 
+<img width="554" height="309" alt="EV cars" src="https://github.com/user-attachments/assets/a714d745-30c6-4afe-a0d9-9ccd26126417" />
 
 
 ## Project Overview
